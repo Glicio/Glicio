@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Glicio
 - 👀 I’m interested in learning new things to build new cool things.
 - 🌱 I’m currently learning React.JS
-- 📫 How to reach me through my email: glicioo@outlook.com
+- 📫 How to reach me? Through my email: glicioo@outlook.com
